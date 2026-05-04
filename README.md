@@ -1,1 +1,2 @@
-# trig-calculator
+# A Simple Trig Calculator
+
